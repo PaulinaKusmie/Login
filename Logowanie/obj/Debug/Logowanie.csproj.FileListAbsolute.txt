@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Logowanie\Logowanie\bin\Debug\Logowanie.exe.config
+C:\Users\dell\source\repos\Logowanie\Logowanie\bin\Debug\Logowanie.exe
+C:\Users\dell\source\repos\Logowanie\Logowanie\bin\Debug\Logowanie.pdb
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.Form1.resources
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.Main.resources
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.Properties.Resources.resources
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.exe
+C:\Users\dell\source\repos\Logowanie\Logowanie\obj\Debug\Logowanie.pdb
+C:\Users\dell\source\repos\Logowanie\Logowanie\bin\Debug\Database1.mdf
+C:\Users\dell\source\repos\Logowanie\Logowanie\bin\Debug\Database1_log.ldf
